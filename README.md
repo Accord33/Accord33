@@ -6,8 +6,10 @@ Accord33
  - I ❤️ Python
 
 #### Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Accord33&layout=compact&hide=html&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+ <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=azurata09&count_private=true&show_icons=true&show_icons=true" />
+ <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azurata09&layout=compact&count_private=true&show_icons=true&show_icons=true" />
+</p>
 
 ### Projects
 
