@@ -12,4 +12,3 @@ Accord33
 ### Projects
 
 [https://miraive2024.pages.dev/](https://miraive2024.pages.dev/)<br>
-[https://www.berubah.jp/](https://www.berubah.jp/)
